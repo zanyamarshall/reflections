@@ -1,0 +1,2 @@
+# reflections
+discussing github activities 
